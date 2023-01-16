@@ -34,6 +34,6 @@ Select the contract you want to write for, the contract method you want to use, 
 The IDE is where you can write and test your expressions. Your expressions will automatically save as you write them. You can also save a copy of your expression for later.
 The Simulator panel on the left side of the IDE will automatically simulate your expression as you write it, and display the output.
 The Docs panel on the right side of the IDE provides a reference for all of the available words in rainlang, with descriptions and examples for each one. You can use this panel as a reference while writing your expression.
-The Context panel lets you mock the context that would usually be provided by the contract that the expression is being run in. For example, in a token transfer the context may include "to", "from", and "amount".
+The Context panel lets you mock the context (including which Network/Chain) that would usually be provided by the contract that the expression is being run in. For example, in a token transfer the context may include "to", "from", and "amount".
 The Notes panel lets you write notes for your expression. You can use this to jot down ideas or reminders for yourself.
 Now that you have set up your Rain Studio account and learned the basics of how to use it, you are ready to start writing your own expressions. With practice and experimentation, you will become more familiar with Rain Studio and be able to use it to its full potential. Happy writing!
