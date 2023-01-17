@@ -29,7 +29,7 @@ In Rainlang, there are many different Words that can be used in expressions. Som
 - **erc20balanceof**: Returns the balance of an ERC20 token for a specified account.
 - **erc721ownerof**: Returns the owner of an ERC721 token for a specified token ID.
 - **ensure**: Requires the specified items from the stack to be true (i.e. greater than zero) and reverts the transaction if this condition is not met.
-- **hash**: Hashes the specified items from the stack using the Solidity keccak256 function and puts the result back into the stack.
+- **hash**: Hashes the specified items from the stack using the [Solidity keccak256](https://solidity-by-example.org/hashing/) function and puts the result back into the stack.
 
 These Words can be used in expressions to perform a wide range of calculations. For example, the following expression calculates the sum of 1 and 2 and names the result "mySum":
 
