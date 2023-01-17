@@ -37,7 +37,7 @@ These Words can be used in expressions to perform a wide range of calculations. 
 
 We’ll explore more words and their uses throughout these guides.
 Inputs
-The inputs to a Word can be either numeric values or the results of other expressions. For example, the following expression calculates the product of the sum of 1 and 2 and the difference of 3 and 4 and names the result '\_'. '\_' is used as a placeholder when you don’t want to name the output (see below).
+The inputs to a Word can be either numeric values or the results of other expressions. For example, the following expression calculates the product of the sum of 1 and 2 and the difference of 3 and 4 and names the result '\_'. The underscore: '\_' is used as a placeholder when you don’t want to name the output (see below).
 
 <Formatter raw={`_: mul(add(1 2) sub(4 3))`} />
 
